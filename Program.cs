@@ -76,6 +76,7 @@ namespace Ejercicio_1_3erBim
             }
             Console.Clear();
             Console.WriteLine("\n Todos Los Creditos A: \n Pedro Javier Serrano Ramírez \n Grado:\n 4to. Bach. BACO");
+            Console.WriteLine("Tuve Problemas con el Github Pero ya logre solucionar \nlos problemas y lo logre subir siento la tardanza");
             Console.ReadKey();
 
         }
